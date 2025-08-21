@@ -1,5 +1,5 @@
 # Portifolio
-Desenvolvimento básico utilizando HTML, CSS e PHP para realizar apresentação pessoal.
+Desenvolvimento básico utilizando HTML, CSS, JS e PHP para realizar apresentação pessoal.
 
 O site contitui-se de quatro arquivos, pois foi necessário adaptar para poder hospedalo gratuitamente no site Infinity Free, pois ele não aceitava fazer o upload dos arquivos da pasta vendor e .env. Por este motivo, foi preciso montar o arquivo config.php para conter os dados pessoais que fariam a ligação no serviço SMTP do Gmail e do serviço de reCaptcha para evitar Spam's. 
 
